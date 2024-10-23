@@ -27,7 +27,7 @@ const About = () => {
             />
 
             <div>
-              <p className="grid-headtext">Hi, I’m Chu-young Theko</p>
+              <p className="grid-headtext">Chu-young Thabo Theko</p>
               <p className="grid-subtext">
                 With 12 years of experience, I have honed my skills in both
                 frontend and backend dev, creating dynamic and responsive
